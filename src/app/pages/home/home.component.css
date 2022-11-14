@@ -1,0 +1,32 @@
+.example-container {
+  width: 100vw;
+  height: 88vh;
+  border: 1px solid #555;
+  background-color: white;
+  color: black;
+}
+
+mat-drawer{
+  width:30vw;
+  background: gray;
+  color: black;
+  padding: 10px;
+}
+
+mat-drawer-content{
+  padding: 10px;
+
+}
+
+table {
+  width: 100%;
+  height: 100%;
+}
+
+form{
+  color: black;
+}
+
+.filt{
+  width:90%;
+}
